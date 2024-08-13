@@ -1,15 +1,15 @@
-$$\Huge
+$$
 \begin{aligned}
-\textcolor{red}{\textbf{C}}\quad
-\textcolor{blue}{\textbf{e}}\quad
-\textcolor{green}{\textbf{l}}\quad
-\textcolor{orange}{\textbf{l}}\quad
-\textcolor{purple}{\textbf{C}}\quad
-\textcolor{yellow}{\textbf{l}}\quad
-\textcolor{cyan}{\textbf{i}}\quad
-\textcolor{magenta}{\textbf{q}}\quad
-\textcolor{lime}{\textbf{u}}\quad
-\textcolor{pink}{\textbf{e}}
+&\Huge \textbf{\textcolor{red}{C}}\quad 
+&\Huge \textbf{\textcolor{blue}{e}}\quad 
+&\Huge \textbf{\textcolor{green}{l}}\quad 
+&\Huge \textbf{\textcolor{orange}{l}}\quad 
+&\Huge \textbf{\textcolor{purple}{C}}\quad 
+&\Huge \textbf{\textcolor{yellow}{l}}\quad 
+&\Huge \textbf{\textcolor{cyan}{i}}\quad 
+&\Huge \textbf{\textcolor{magenta}{q}}\quad 
+&\Huge \textbf{\textcolor{lime}{u}}\quad 
+&\Huge \textbf{\textcolor{pink}{e}}
 \end{aligned}
 $$
 
