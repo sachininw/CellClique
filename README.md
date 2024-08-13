@@ -1,4 +1,4 @@
-$$
+$
 \begin{aligned}
 &\Huge \textbf{\textcolor{red}{C}}\quad 
 &\Huge \textbf{\textcolor{blue}{E}}\quad 
@@ -11,6 +11,6 @@ $$
 &\Huge \textbf{\textcolor{lime}{U}}\quad 
 &\Huge \textbf{\textcolor{pink}{E}}
 \end{aligned}
-$$
+$
 
 A repository for dissecting tumor microenvironments using spatial transcriptomics and haematoxylin and eosin stains (H&amp;E).
